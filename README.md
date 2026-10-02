@@ -31,6 +31,14 @@ Python & Web Developer — I build backend systems, data pipelines, and applied-
 
 ---
 
+---
+
+#### Live demo repos (clean-room code, no company data)
+
+- [`jwt-auth-filter-demo`](https://github.com/AlvinFerdinand/jwt-auth-filter-demo) — Spring Boot 3 / Spring Security 6 JWT auth filter, CI-tested (build passing)
+- [`fifo-cogs-engine-demo`](https://github.com/AlvinFerdinand/fifo-cogs-engine-demo) — FIFO cost-of-goods engine, Python, 8 tests (build passing)
+- [`rest-sync-pipeline-demo`](https://github.com/AlvinFerdinand/rest-sync-pipeline-demo) — reliable incremental REST sync pattern, Python, 6 tests (build passing)
+
 #### Currently learning
 Angular 19 + Ionic + Spring Boot 3 (Java 21) — deliberately filling the gap on the Java/Angular side of the stack.
 
