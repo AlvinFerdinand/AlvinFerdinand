@@ -33,12 +33,16 @@ Python & Web Developer — I build backend systems, data pipelines, and applied-
 
 ---
 
-#### Live demo repos (clean-room code, no company data)
+#### Live demo repos
+
+Clean-room rebuilds of patterns from systems I built during my IT internship at **GSI Group**. The production code, data and schemas belong to the company and are not published — these are written from scratch on synthetic data so the engineering decisions can be shown and tested in the open.
+
 
 - [`jwt-auth-filter-demo`](https://github.com/AlvinFerdinand/jwt-auth-filter-demo) — Spring Boot 3 / Spring Security 6 JWT auth filter, CI-tested (build passing)
 - [`fifo-cogs-engine-demo`](https://github.com/AlvinFerdinand/fifo-cogs-engine-demo) — FIFO cost-of-goods engine, Python, 8 tests (build passing)
 - [`rest-sync-pipeline-demo`](https://github.com/AlvinFerdinand/rest-sync-pipeline-demo) — reliable incremental REST sync pattern, Python, 6 tests (build passing)
 - [`scoped-permission-system-demo`](https://github.com/AlvinFerdinand/scoped-permission-system-demo) — ERP architecture: permissions scoped by module AND region + per-region workflow overrides, 18 tests (build passing)
+- [`ocr-form-reader-demo`](https://github.com/AlvinFerdinand/ocr-form-reader-demo) — photographed form → structured digits, tuned for zero wrong readings (refuses rather than guesses), NumPy only, 14 tests (build passing)
 
 #### Currently learning
 Angular 19 + Ionic + Spring Boot 3 (Java 21) — deliberately filling the gap on the Java/Angular side of the stack.
