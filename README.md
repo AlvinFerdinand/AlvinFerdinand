@@ -9,6 +9,7 @@ accounting integrations, and computer-vision tooling in production use.
   **Zuliya Group** (multi-module ERP) and **Optik Rizki Eye Plus** (retail POS)
 - 🧠 **Bangkit Academy** — Machine Learning path (TensorFlow, Google Cloud)
 - 👨‍🏫 Taught Python, web, Android (Kotlin/Java) and ML for a year at **Timedoor Academy**
+- 🌐 Portfolio: **[alvinferdinand.github.io](https://alvinferdinand.github.io)**
 - 📍 Semarang, Indonesia · **open to work**
 
 `Python` `PHP/Laravel` `Go` `JavaScript/TypeScript` `React & React Native`
@@ -87,4 +88,4 @@ on the Java/Angular side rather than staying in the stacks I already know.
 ### 📫 Reach me
 📧 alvinferdinand2004@gmail.com · 📱 +62 857-0254-2793
 · 💼 [LinkedIn](https://linkedin.com/in/alvin-ferdinand-647102335)
-· 🌐 [kotaatlas.netlify.app](https://kotaatlas.netlify.app)
+· 🌐 [alvinferdinand.github.io](https://alvinferdinand.github.io)
